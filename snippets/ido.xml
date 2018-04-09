@@ -9,8 +9,8 @@
   <project path="external/sony/boringssl-compat" name="android_external_sony_boringssl-compat" remote="dinphy" revision="lineage-15.1" />
   <project path="external/stlport" name="android_external_stlport" remote="dinphy" revision="lineage-15.1" />
   <project path="hardware/qcom/audio-caf/msm8916" name="hardware_qcom_audio" groups="qcom,qcom_audio,pdk" remote="dinphy" revision="oreo-mr1-caf-8916" />
-  <project path="hardware/qcom/display-caf/msm8916" name="hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="dinphy" revision="oreo-mr1-caf-8916" />
-  <project path="hardware/qcom/media-caf/msm8916" name="hardware_qcom_media" groups="qcom,pdk" remote="dinphy" revision="oreo-mr1-caf-8916" />
+  <!--project path="hardware/qcom/display-caf/msm8916" name="hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="dinphy" revision="oreo-mr1-caf-8916" />
+  <project path="hardware/qcom/media-caf/msm8916" name="hardware_qcom_media" groups="qcom,pdk" remote="dinphy" revision="oreo-mr1-caf-8916" />-->
   <project path="kernel/xiaomi/msm8916" name="android_kernel_xiaomi_msm8916" remote="dinphy" revision="mko-mr1" />  
   <project path="packages/resources/devicesettings" name="android_packages_resources_devicesettings" remote="dinphy" revision="lineage-15.1" />
   <project path="vendor/xiaomi" name="android_vendor_xiaomi_ido" remote="dinphy" revision="mko-mr1" />
